@@ -1,1 +1,1 @@
-Output obtained from running the code in FUNCTIONS using Matlab
+Output obtained from running the code in FUNCTIONS using Matlab. Note that when the MATLAB code - tide_pred5_11cons_11Jan18.m is run, the analysis is run for every hour for every 15 days - I think because the computer I ran it on could not process time durations longer than that - the dates have to be changed for every 15 day run - and the output appears within the FUNCTIONS folder itself. I have moved those files into appropriate folders here.
