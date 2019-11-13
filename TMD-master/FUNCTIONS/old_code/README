@@ -1,0 +1,4 @@
+This contains old code that was tested before the final code - tide_pred5_11cons_11Jan18.m was decided upon
+1. Pierre's code - Pierre Cazenave - email communication on 22 Nov 2017 - pica@pml.ac.uk - tide_pierre.m - I didn't use this at all
+2. Ivan's code - Ivan Haigh - email communication on 21 Nov 2017 - I.D.Haigh@soton.ac.uk - tide_pred5.m - this formed the basis for the final code that I came up with - I think this might not be the original file - I have already made some changes to the original file
+3. tmd_tide_pred - already came with the TMD toolbox - wasn't used
