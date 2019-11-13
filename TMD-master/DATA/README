@@ -1,1 +1,6 @@
-Tidal data downloaded from OTIS REgional Tidal solutions (http://volkov.oce.orst.edu/tides/IO.html) - for Indian Ocean at 1/12 degree resolution.
+Tidal data downloaded from OTIS REgional Tidal solutions (http://volkov.oce.orst.edu/tides/IO.html) - for Indian Ocean at 1/12 degree resolution. Data too large to be placed here, can be downloaded from ftp://ftp.oce.orst.edu/dist/tides/regional/IO.tar.Z. The four folders within the DATA folder should be -
+
+gridIO_atlas.nc
+hf.IT_2011atlas.nc
+uv.IO_2011atlas.nc
+Model_IO_atlas
